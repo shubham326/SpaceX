@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.e141296e.chunk.css",
-    "main.js": "/static/js/main.6a91b995.chunk.js",
-    "main.js.map": "/static/js/main.6a91b995.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.142b1330.js",
-    "runtime-main.js.map": "/static/js/runtime-main.142b1330.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.6cdbf0dc.chunk.js": "/static/js/2.6cdbf0dc.chunk.js",
-    "static/js/2.6cdbf0dc.chunk.js.map": "/static/js/2.6cdbf0dc.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a72c3cba5128a3189afbe61da82a59d3.js": "/precache-manifest.a72c3cba5128a3189afbe61da82a59d3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.e141296e.chunk.css.map": "/static/css/main.e141296e.chunk.css.map",
-    "static/js/2.6cdbf0dc.chunk.js.LICENSE.txt": "/static/js/2.6cdbf0dc.chunk.js.LICENSE.txt",
-    "static/media/loadRocket.gif": "/static/media/loadRocket.c537d7d1.gif"
+    "main.css": "/SpaceX/static/css/main.e141296e.chunk.css",
+    "main.js": "/SpaceX/static/js/main.e483d63b.chunk.js",
+    "main.js.map": "/SpaceX/static/js/main.e483d63b.chunk.js.map",
+    "runtime-main.js": "/SpaceX/static/js/runtime-main.60a47493.js",
+    "runtime-main.js.map": "/SpaceX/static/js/runtime-main.60a47493.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/SpaceX/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.6cdbf0dc.chunk.js": "/SpaceX/static/js/2.6cdbf0dc.chunk.js",
+    "static/js/2.6cdbf0dc.chunk.js.map": "/SpaceX/static/js/2.6cdbf0dc.chunk.js.map",
+    "index.html": "/SpaceX/index.html",
+    "precache-manifest.819c4e9d76ef2cd9ffbcf73fccda1279.js": "/SpaceX/precache-manifest.819c4e9d76ef2cd9ffbcf73fccda1279.js",
+    "service-worker.js": "/SpaceX/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/SpaceX/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.e141296e.chunk.css.map": "/SpaceX/static/css/main.e141296e.chunk.css.map",
+    "static/js/2.6cdbf0dc.chunk.js.LICENSE.txt": "/SpaceX/static/js/2.6cdbf0dc.chunk.js.LICENSE.txt",
+    "static/media/loadRocket.gif": "/SpaceX/static/media/loadRocket.c537d7d1.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.142b1330.js",
+    "static/js/runtime-main.60a47493.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.6cdbf0dc.chunk.js",
     "static/css/main.e141296e.chunk.css",
-    "static/js/main.6a91b995.chunk.js"
+    "static/js/main.e483d63b.chunk.js"
   ]
 }
